@@ -25,17 +25,15 @@ A simple single-page email client built with JavaScript and Django as part of CS
 ## How to Run
 
 1. Run migrations  
-
+```
 python manage.py makemigrations
 python manage.py migrate
-
+```
 2. Start server  
-
+```
 python manage.py runserver
-
-3. Open in browser:  
-
-http://127.0.0.1:8000/
+```
+3. Open in browser
 
 ---
 
