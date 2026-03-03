@@ -47,4 +47,4 @@ python manage.py runserver
 
 ## Demo
 
-[Add your demo link here]
+[soon]
