@@ -1,4 +1,4 @@
-# 📧 Mail - Email Client
+# Mail - Email Client
 
 A simple single-page email client built with JavaScript and Django as part of CS50’s Web Programming with Python and JavaScript.
 
