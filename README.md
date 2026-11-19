@@ -19,7 +19,6 @@ A simple single-page email client built with JavaScript and Django as part of CS
 - `inbox.js` : Handles all frontend logic  
 - `inbox.html` : Main UI layout  
 - `styles.css` : Styling  
-
 ---
 
 ## How to Run
